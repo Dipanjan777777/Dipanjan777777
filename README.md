@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dipanjan Santra
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Dipanjan GIF" style="height:120px; width:auto; display:block; margin:0 auto;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Dipanjan GIF" height="120" />
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 
 - 📫 Contact me: [santra.dipanjan.01@gmail.com](mailto:santra.dipanjan.01@gmail.com)
 ---
-<p align="left"> 
+<p align="left">
   Visitors: <br>
   <img src="https://profile-counter.glitch.me/Dipanjan777777/count.svg" alt="visitor counter" />
 </p>
@@ -49,7 +49,9 @@ Stats:
 
 <!-- Daily Inspiration -->
 <p align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Readme Quotes" />
+  </a>
   <br/>
   <em>"Take your time, but make it count."</em>
 </p>
