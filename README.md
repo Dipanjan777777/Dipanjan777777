@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Dipanjan Santra
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Dipanjan GIF" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Dipanjan GIF" style="height:120px; width:auto; display:block; margin:0 auto;" />
+</p>
+
 <br>
 
 **Aspiring Data Scientist | Turning data into insights with AI**
@@ -44,11 +47,9 @@ Stats:
 <br>
 </details>
 
-## 💭 **Daily Inspiration**
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-<div align="center">
-
-*"Take your time, but make it count."*
-
-</div>
+<!-- Daily Inspiration -->
+<p align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+  <br/>
+  <em>"Take your time, but make it count."</em>
+</p>
