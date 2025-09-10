@@ -30,7 +30,7 @@
 
 - 📫 Contact me: [santra.dipanjan.01@gmail.com](mailto:santra.dipanjan.01@gmail.com)
 ---
-**Visitors**  
+
 <!-- Using the template image you provided and linking it to your GitHub profile -->
 <a href="https://github.com/Dipanjan777777" target="_blank" rel="noopener">
   <img src="https://camo.githubusercontent.com/7d6469cab27b3ce797cdfc69b927b72b43c2b347f5145daa3b6a0f230cbfd942/68747470733a2f2f7662722e6e617468616e6368756e672e6465762f62616467653f706167655f69643d76697369746f722d62616467652d72656c6f616465642d76697369746f7273266c636f6c6f723d66666626636f6c6f723d303030267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d313831373137266869743d66616c7365" alt="Visitors badge" />
