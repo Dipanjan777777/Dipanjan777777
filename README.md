@@ -40,10 +40,10 @@
 
 ---
 
-<!-- Left column: visitor counter and quick links; Right column: stats card -->
-<table>
+<!-- Two-column layout: left = visitor + quick links, right = stats & top languages -->
+<table width="100%">
   <tr>
-    <td valign="top" width="45%">
+    <td valign="top" width="40%">
 
 **Visitors**  
 <img src="https://komarev.com/ghpvc/?username=Dipanjan777777&color=0e75b6" alt="profile views" />
@@ -55,26 +55,35 @@
 - [LinkedIn](https://www.linkedin.com) *(add your link)*
 
     </td>
-    <td valign="top" width="55%">
+    <td valign="top" width="60%">
 
 **GitHub Stats**  
-<img src="https://github-readme-stats.vercel.app/api?username=Dipanjan777777&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dipanjan777777&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+
+<br/>
+
+**Top languages**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan777777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
     </td>
   </tr>
 </table>
 
-<details>
-<summary>Trophies & streaks (click to expand)</summary>
+<p align="center" style="font-size:12px;color:#999;">
+If the images above don't show, the external service may be blocked — open your profile page or view the image URLs directly.
+</p>
 
-<br>
+<details>
+<summary>Trophies & additional widgets (click to expand)</summary>
+
+<br/>
 
 **Trophies**  
 <img src="https://github-profile-trophy.vercel.app/?username=Dipanjan777777" alt="trophies" />
 
 <br/>
 
-**Streak**  
+**GitHub Streak (legacy widget)**  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipanjan777777&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </details>
